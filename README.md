@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/cc71b539-01da-4365-8471-d8bc44ed63ae
 
 Este proyecto presenta una herramienta educativa e interactiva para visualizar cómo las **ondas complejas** pueden ser descompuestas en una serie de ondas senoidales simples utilizando las Series de Fourier, o viceverasa, como una onda compleja puede ser reconstruida a partir de una serie de ondas senoidales simples. La aplicación muestra dos visualizaciones simultáneas:
 
-1. **Epicíclos de Fourier**: Círculos giratorios que representan cada armónica
+1. **Epicíclos de Fourier**: Vectores giratorios que representan cada armónica
 2. **Onda Resultante**: La suma de todas las armónicas que forma la onda final
 
 ## ✨ Características Principales
